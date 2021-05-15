@@ -1,11 +1,11 @@
 {
-  "name": "Synthetic BNB",
-  "website": "https://wisetoken.net/",
-  "description": "SBNB is a form of wrapped BNB that is used for arbitrage and indirect yield generation in the Wise Token (WISB) ecosystem.",
-  "explorer": "https://bscscan.com/token/0xE90444C38a8Cd2DCEEe9D954042ac817a794E9A9",
-  "type": "BEP20",
-  "symbol": "SBNB",
-  "decimals": 18,
-  "status": "active",
-  "id": "0xE90444C38a8Cd2DCEEe9D954042ac817a794E9A9"
+    "name": "Synthetic BNB",
+    "website": "https://wisetoken.net/",
+    "description": "SBNB is a form of wrapped BNB that is used for arbitrage and indirect yield generation in the Wise Token (WISB) ecosystem.",
+    "explorer": "https://bscscan.com/token/0xE90444C38a8Cd2DCEEe9D954042ac817a794E9A9",
+    "type": "BEP20",
+    "symbol": "SBNB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE90444C38a8Cd2DCEEe9D954042ac817a794E9A9"
 }
